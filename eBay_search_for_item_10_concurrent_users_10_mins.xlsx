@@ -1,0 +1,1 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,KB/secThread Group:Search for item,5601,1068,993,1297,1664,2146,595,10701,0.00%,9.3,378.4TOTAL,5601,1068,993,1297,1664,2146,595,10701,0.00%,9.3,378.4
